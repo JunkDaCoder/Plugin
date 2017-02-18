@@ -1,7 +1,7 @@
-name: PluginName
-main: YourPlugin\Class
+name: Template
+main: Junkdude\Class
 version: 1.0.0
-api: [2.0.0]
+api: [3.0.0-ALPHA3]
 #If you have commands then.. (Remove the hashtags (#))
 #commands:
  #yourcommand:
